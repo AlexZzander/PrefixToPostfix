@@ -1,2 +1,2 @@
 # PrefixToPostfix
-Converts prefix notation to postfix notation 
+Converts prefix notation to postfix notation using binary tree 
